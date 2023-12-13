@@ -138,7 +138,7 @@ export default function Home() {
           </div>
           {Array.isArray(Data) &&
             Data.length > 0 &&
-            Data.map((value: any, index) => (
+            Data.map((value: any, index:any) => (
               <div
                 key={index}
                 className=" border-t border-gray-300 flex w-full h-12"
