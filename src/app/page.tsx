@@ -139,7 +139,10 @@ export default function Home() {
           {Array.isArray(Data) &&
             Data.length > 0 &&
             Data.map((value: any, index) => (
-              <div className=" border-t border-gray-300 flex w-full h-12">
+              <div
+                key={index}
+                className=" border-t border-gray-300 flex w-full h-12"
+              >
                 <div className="h-full w-[150px] flex justify-center items-center rounded-lg text-left text-zinc-500 text-xs px-8 font-normal">
                   {index + 1}
                 </div>

@@ -1,11 +1,5 @@
 [
   {
-    "name": "John Doe",
-    "age": 28,
-    "city": "New York",
-    "pinCode": "10001"
-  },
-  {
     "name": "Alice Smith",
     "age": 32,
     "city": "Los Angeles",
@@ -16,12 +10,6 @@
     "age": 24,
     "city": "Chicago",
     "pinCode": "60601"
-  },
-  {
-    "name": null,
-    "age": 30,
-    "city": "San Francisco",
-    "pinCode": "94101"
   },
   {
     "name": "Sarah Brown",
