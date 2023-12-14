@@ -22,7 +22,6 @@ try {
     console.log(index);
 
     Data.splice(index, 1);
-    console.log(Data);
     fs.writeFileSync(dataFilePath, JSON.stringify(Data, null, 2));
 
     console.log(index);

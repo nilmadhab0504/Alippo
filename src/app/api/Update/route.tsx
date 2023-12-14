@@ -8,7 +8,6 @@ export const PUT = async (req: any) => {
 
   try {
       const { index, newName } = await req.json();
-      console.log("dxuasb",newName)
        const index1 = parseInt(index, 10);
     if (typeof index1 !== "number" || index1 < 0 || index1 >= Data.length) {
       return NextResponse.json(

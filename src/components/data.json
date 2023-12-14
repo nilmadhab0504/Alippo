@@ -1,30 +1,12 @@
 [
   {
-    "name": "Alice Smith",
-    "age": 32,
-    "city": "Los Angeles",
-    "pinCode": null
-  },
-  {
-    "name": "Bob Johnson",
-    "age": 24,
-    "city": "Chicago",
-    "pinCode": "60601"
-  },
-  {
-    "name": "Sarah Brown",
-    "age": 22,
-    "city": "Miami",
-    "pinCode": "33101"
-  },
-  {
-    "name": "David Wilson",
+    "name": "David Wilson ",
     "age": 35,
     "city": "Houston",
     "pinCode": "77001"
   },
   {
-    "name": "Emily Davis",
+    "name": "Emily Davi",
     "age": 29,
     "city": "Boston",
     "pinCode": "02201"
